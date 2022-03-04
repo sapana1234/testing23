@@ -1,0 +1,15 @@
+1)excel file
+2)flat file
+3)db to db
+4)conditionalsplit
+5)Multicast transformation
+6)Dataconversion
+7)Sort the data
+8)Unionall
+9)MergeJoin
+10)derived txn
+11)Mergesort
+12)Aggregate
+13)Pivot 
+14)Unpivot
+
